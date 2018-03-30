@@ -1,0 +1,23 @@
+{
+  "name": "Pokemon-IV-Test",
+  "version": "1.0.0",
+  "description": "Testing a module out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devNoiseConsulting/Pokemon-IV-Test.git"
+  },
+  "keywords": [],
+  "author": "Michael J. Flynn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devNoiseConsulting/Pokemon-IV-Test/issues"
+  },
+  "homepage": "https://github.com/devNoiseConsulting/Pokemon-IV-Test#readme",
+  "dependencies": {
+    "pokemagic": "^2.0.0"
+  }
+}
